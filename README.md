@@ -106,7 +106,4 @@ A próxima versão do projeto prevê:
 
 ---
 
-## 📄 Licença
 
-Este projeto foi desenvolvido para fins educacionais.  
-Instituto Técnico Educacional Mirian Menchini — ITEMM © 2026
