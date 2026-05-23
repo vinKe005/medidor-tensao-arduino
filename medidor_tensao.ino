@@ -2,7 +2,7 @@
  * ============================================================
  *  Medidor de Tensão com Alerta Sonoro — Arduino UNO
  * ============================================================
- *  Autor:    Instituto Técnico Educacional Mirian Menchini
+ *  Autor:   Kevin Mikael Ribeiro de Figueiredo
  *  Data:     Abril / 2026
  *  Versão:   1.0
  * ============================================================
